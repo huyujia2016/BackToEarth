@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackToEarth_Beta1.0", "BackToEarth_Beta1.0.csproj", "{F4872548-194C-EF76-5D82-4C16767D6872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackToEarth_Beta1.0.Editor", "BackToEarth_Beta1.0.Editor.csproj", "{F0B3B86A-631B-0E86-5F2F-51C4C3925E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4872548-194C-EF76-5D82-4C16767D6872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4872548-194C-EF76-5D82-4C16767D6872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4872548-194C-EF76-5D82-4C16767D6872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4872548-194C-EF76-5D82-4C16767D6872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B3B86A-631B-0E86-5F2F-51C4C3925E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B3B86A-631B-0E86-5F2F-51C4C3925E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B3B86A-631B-0E86-5F2F-51C4C3925E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B3B86A-631B-0E86-5F2F-51C4C3925E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
